@@ -1,6 +1,5 @@
 # Introduction to Generative AI 
-## A short overview
 
-- [Introduction](https://github.com/unverciftci/intro2genai/wiki/Introduction)
-- What is AI
-- Generative AI
+- https://www.exampro.co/exp-genai-01
+- https://www.btkakademi.gov.tr/portal/course/uretken-yapay-zekaya-giris-45762
+- https://www.deeplearning.ai/courses/generative-ai-for-everyone/
